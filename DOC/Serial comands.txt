@@ -1,0 +1,13 @@
+MCU -> Controller
+
+a - SD24-0 Hex value
+b - SD24-1 Hex value
+c - SD24-2 Hex value
+d - SD24-3 Hex value
+
+Controller -> MCU
+
+e - PWM-0.1 Hex value
+f - PWM-0.2 Hex value
+g - PWM-1.1 Hex value
+h - PWM-1.2 Hex value 
